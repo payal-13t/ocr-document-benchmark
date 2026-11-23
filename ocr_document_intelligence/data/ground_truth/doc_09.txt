@@ -1,0 +1,10 @@
+NORTHSTAR BUSINESS SERVICES
+INVOICE
+Document ID: INV-2026-009
+Supplier: Amber Consulting
+Document date: 2026-04-09
+DESCRIPTION QUANTITY AMOUNT (INR)
+Consulting hours 16 32000.00
+Payment terms: GST 18%
+Please verify all details before processing.
+Page 1 of 1 | Archive batch 09

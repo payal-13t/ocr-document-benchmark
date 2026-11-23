@@ -1,0 +1,10 @@
+NORTHSTAR BUSINESS SERVICES
+PURCHASE ORDER
+Document ID: PO-2026-018
+Supplier: Clearwater Energy
+Document date: 2026-07-03
+DESCRIPTION QUANTITY AMOUNT (INR)
+Power backup 3 26700.00
+Payment terms: Net 30
+Please verify all details before processing.
+Page 1 of 1 | Archive batch 18

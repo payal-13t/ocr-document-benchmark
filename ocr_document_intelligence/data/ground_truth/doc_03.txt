@@ -1,0 +1,10 @@
+NORTHSTAR BUSINESS SERVICES
+INVOICE
+Document ID: INV-2026-003
+Supplier: Maple Office Works
+Document date: 2026-02-03
+DESCRIPTION QUANTITY AMOUNT (INR)
+Printer toner 12 9600.00
+Payment terms: GST 18%
+Please verify all details before processing.
+Page 1 of 1 | Archive batch 03

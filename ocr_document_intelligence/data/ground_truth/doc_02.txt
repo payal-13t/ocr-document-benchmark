@@ -1,0 +1,10 @@
+NORTHSTAR BUSINESS SERVICES
+INVOICE
+Document ID: INV-2026-002
+Supplier: Bluebird Technologies
+Document date: 2026-01-18
+DESCRIPTION QUANTITY AMOUNT (INR)
+USB keyboard 35 17500.00
+Payment terms: GST 18%
+Please verify all details before processing.
+Page 1 of 1 | Archive batch 02

@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "scanned-doc-ocr-benchmark"
+version = "1.0.0"
+description = "A reproducible Tesseract OCR benchmark on 20 labelled scanned documents"
+requires-python = ">=3.9"
+dependencies = ["pytesseract>=0.3.10", "opencv-python-headless>=4.8", "numpy>=1.24"]
+
+[project.optional-dependencies]
+dev = ["pytest>=7.4"]
+
+[project.scripts]
+doc-ocr = "doc_ocr.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

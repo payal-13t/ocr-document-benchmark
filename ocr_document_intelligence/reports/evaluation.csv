@@ -1,0 +1,354 @@
+document,cer,wer,reference_chars,reference_words,ocr_text
+doc_01.png,0.0,0.0,270,39,"NORTHSTAR BUSINESS SERVICES
+
+INVOICE
+
+Document ID: INV-2026-001
+
+Supplier: Northstar Supplies
+
+Document date: 2026-01-12
+
+DESCRIPTION QUANTITY AMOUNT (INR)
+A4 paper 240 4800.00
+Payment terms: GST 18%
+
+Please verify all details before processing.
+
+Page 1 of 1 | Archive batch 01"
+doc_02.png,0.04332129963898917,0.10256410256410256,277,39,"NORTHSTAR BUSINESS SERVICES
+eee
+INVOICE
+
+Document ID: INV-2026-002
+
+Supplier: Bluebird Technologies
+
+Document date: 2026-01-18
+ee
+DESCRIPTION QUANTITY AMOUNT (INR)
+eee
+USB keyboard 35 17500.00
+
+Payment terms: GST 18%
+
+Please verify all details before processing.
+
+Page 1 of 2 | Archive batch 02"
+doc_03.png,0.040145985401459854,0.125,274,40,"NORTHSTAR BUSINESS SERVICES
+a
+INVOICE
+
+Document ID: INV-2026-003
+Supplier: Maple Office Works
+
+Document date: 2026-02-03
+a ——
+DESCRIPTION QUANTITY AMOUNT (INR)
+a
+Printer toner 12 9600.00
+a
+Payment terms: GST 18%
+
+Please verify all details before processing.
+
+Page 1 of 1 | Archive batch 03"
+doc_04.png,0.0,0.0,272,39,"NORTHSTAR BUSINESS SERVICES
+
+INVOICE
+
+Document ID: INV-2026-004
+
+Supplier: Cedar Logistics
+
+Document date: 2026-02-14
+
+DESCRIPTION QUANTITY AMOUNT (INR)
+Courier service 18 2250.00
+Payment terms: GST 5%
+
+Please verify all details before processing.
+
+Page 1 of 1 | Archive batch 04"
+doc_05.png,0.0,0.0,268,38,"NORTHSTAR BUSINESS SERVICES
+
+INVOICE
+
+Document ID: INV-2026-005
+
+Supplier: Orbit Stationery
+
+Document date: 2026-03-02
+
+DESCRIPTION QUANTITY AMOUNT (INR)
+Notebook 150 7500.00
+Payment terms: GST 12%
+
+Please verify all details before processing.
+
+Page 1 of 1 | Archive batch 05"
+doc_06.png,0.0,0.0,270,39,"NORTHSTAR BUSINESS SERVICES
+
+INVOICE
+
+Document ID: INV-2026-006
+
+Supplier: Silverline Systems
+
+Document date: 2026-03-11
+
+DESCRIPTION QUANTITY AMOUNT (INR)
+SSD drive 8 38400.00
+Payment terms: GST 18%
+
+Please verify all details before processing.
+
+Page 1 of 1 | Archive batch 06"
+doc_07.png,0.03663003663003663,0.07692307692307693,273,39,"NORTHSTAR BUSINESS SERVICES
+eee
+INVOICE
+
+Document ID: INV-2026-007
+
+Supplier: Greenfield Traders
+
+Document date: 2026-03-19
+ee
+DESCRIPTION QUANTITY AMOUNT (INR)
+ee
+Office chair 6 27000.00
+
+Payment terms: GST 18%
+
+Please verify all details before processing.
+
+Page 1 of 1 | Archive batch 07"
+doc_08.png,0.029411764705882353,0.10256410256410256,272,39,"NORTHSTAR BUSINESS SERVICES
+a
+INVOICE
+Document ID: INV-2026-008
+Supplier: Summit Networks
+
+Document date: 2026-04-01
+a
+DESCRIPTION QUANTITY AMOUNT (INR)
+a
+Ethernet cable 50 6250.00
+a
+Payment terms: GST 18%
+
+Please verify all details before processing.
+
+Page 1 of 1 | Archive batch 08"
+doc_09.png,0.0,0.0,276,39,"NORTHSTAR BUSINESS SERVICES
+
+INVOICE
+
+Document ID: INV-2026-009
+
+Supplier: Amber Consulting
+
+Document date: 2026-04-09
+
+DESCRIPTION QUANTITY AMOUNT (INR)
+Consulting hours 16 32000.00
+Payment terms: GST 18%
+
+Please verify all details before processing.
+
+Page 1 of 1 | Archive batch 09"
+doc_10.png,0.0,0.0,275,39,"NORTHSTAR BUSINESS SERVICES
+
+INVOICE
+
+Document ID: INV-2026-010
+
+Supplier: Riverstone Retail
+
+Document date: 2026-04-22
+
+DESCRIPTION QUANTITY AMOUNT (INR)
+Barcode scanner 4 14800.00
+Payment terms: GST 18%
+
+Please verify all details before processing.
+
+Page 1 of 1 | Archive batch 10"
+doc_11.png,0.0,0.0,275,40,"NORTHSTAR BUSINESS SERVICES
+
+PURCHASE ORDER
+
+Document ID: PO-2026-011
+
+Supplier: Pinecrest Labs
+
+Document date: 2026-05-02
+
+DESCRIPTION QUANTITY AMOUNT (INR)
+Laptop stand 20 11000.00
+Payment terms: Net 30
+
+Please verify all details before processing.
+
+Page 1 of 1 | Archive batch 11"
+doc_12.png,0.021352313167259787,0.04878048780487805,281,41,"NORTHSTAR BUSINESS SERVICES
+Se
+PURCHASE ORDER
+
+Document ID: PO-2026-012
+
+Supplier: Metro Print House
+
+Document date: 2026-05-08
+
+DESCRIPTION QUANTITY AMOUNT (INR)
+ee
+Brochure print 500 12500.00
+
+Payment terms: Net 15
+
+Please verify all details before processing.
+
+Page 1 of 1 | Archive batch 12"
+doc_13.png,0.03225806451612903,0.14634146341463414,279,41,"NORTHSTAR BUSINESS SERVICES
+a
+PURCHASE ORDER
+
+Document ID: PO-2026-013
+
+Supplier: Cloud Nine Media
+
+Document date: 2026-05-17
+a
+DESCRIPTION QUANTITY AMOUNT (INR)
+a
+Design service 10 45000.00
+a
+Payment terms: Net 30
+
+Please verify all details before processing.
+
+Page 1 of1 | Archive batch 13"
+doc_14.png,0.0,0.0,272,40,"NORTHSTAR BUSINESS SERVICES
+
+PURCHASE ORDER
+
+Document ID: PO-2026-014
+
+Supplier: Harbour Foods
+
+Document date: 2026-05-26
+
+DESCRIPTION QUANTITY AMOUNT (INR)
+Tea supplies 30 3600.00
+Payment terms: Net 7
+
+Please verify all details before processing.
+
+Page 1 of 1 | Archive batch 14"
+doc_15.png,0.0,0.0,274,40,"NORTHSTAR BUSINESS SERVICES
+
+PURCHASE ORDER
+
+Document ID: PO-2026-015
+
+Supplier: Vertex Security
+
+Document date: 2026-06-04
+
+DESCRIPTION QUANTITY AMOUNT (INR)
+Access card 75 9375.00
+Payment terms: Net 30
+
+Please verify all details before processing.
+
+Page 1 of 1 | Archive batch 15"
+doc_16.png,0.0,0.0,272,40,"NORTHSTAR BUSINESS SERVICES
+
+PURCHASE ORDER
+
+Document ID: PO-2026-016
+
+Supplier: Aspen Furniture
+
+Document date: 2026-06-13
+
+DESCRIPTION QUANTITY AMOUNT (INR)
+Desk lamp 14 8400.00
+Payment terms: Net 15
+
+Please verify all details before processing.
+
+Page 1 of 1 | Archive batch 16"
+doc_17.png,0.031914893617021274,0.07317073170731707,282,41,"NORTHSTAR BUSINESS SERVICES
+ee
+PURCHASE ORDER
+
+Document ID: PO-2026-017
+
+Supplier: Redwood Motors
+
+Document date: 2026-06-21
+ee
+DESCRIPTION QUANTITY AMOUNT (INR)
+ee
+Delivery van service 1 18500.00
+
+Payment terms: Net 30
+
+Please verify all details before processing.
+
+Page 1 of 1 | Archive batch 17"
+doc_18.png,0.02888086642599278,0.1,277,40,"NORTHSTAR BUSINESS SERVICES
+a
+PURCHASE ORDER
+
+Document ID: PO-2026-018
+
+Supplier: Clearwater Energy
+
+Document date: 2026-07-03
+a
+DESCRIPTION QUANTITY AMOUNT (INR)
+a
+Power backup 3 26700.00
+a
+Payment terms: Net 30
+
+Please verify all details before processing.
+
+Page 1 of 1 | Archive batch 18"
+doc_19.png,0.0,0.0,277,40,"NORTHSTAR BUSINESS SERVICES
+
+PURCHASE ORDER
+
+Document ID: PO-2026-019
+
+Supplier: Atlas Learning
+
+Document date: 2026-07-14
+
+DESCRIPTION QUANTITY AMOUNT (INR)
+Training seats 25 50000.00
+Payment terms: Net 30
+
+Please verify all details before processing.
+
+Page 1 of 1 | Archive batch 19"
+doc_20.png,0.0,0.0,275,41,"NORTHSTAR BUSINESS SERVICES
+
+PURCHASE ORDER
+
+Document ID: PO-2026-020
+
+Supplier: Meadow Health
+
+Document date: 2026-07-28
+
+DESCRIPTION QUANTITY AMOUNT (INR)
+First aid kits 40 7200.00
+Payment terms: Net 15
+
+Please verify all details before processing.
+
+Page 1 of 1 | Archive batch 20"

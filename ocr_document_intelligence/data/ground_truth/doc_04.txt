@@ -1,0 +1,10 @@
+NORTHSTAR BUSINESS SERVICES
+INVOICE
+Document ID: INV-2026-004
+Supplier: Cedar Logistics
+Document date: 2026-02-14
+DESCRIPTION QUANTITY AMOUNT (INR)
+Courier service 18 2250.00
+Payment terms: GST 5%
+Please verify all details before processing.
+Page 1 of 1 | Archive batch 04

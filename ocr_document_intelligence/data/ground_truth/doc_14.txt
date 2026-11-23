@@ -1,0 +1,10 @@
+NORTHSTAR BUSINESS SERVICES
+PURCHASE ORDER
+Document ID: PO-2026-014
+Supplier: Harbour Foods
+Document date: 2026-05-26
+DESCRIPTION QUANTITY AMOUNT (INR)
+Tea supplies 30 3600.00
+Payment terms: Net 7
+Please verify all details before processing.
+Page 1 of 1 | Archive batch 14

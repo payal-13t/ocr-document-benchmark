@@ -1,0 +1,10 @@
+NORTHSTAR BUSINESS SERVICES
+INVOICE
+Document ID: INV-2026-007
+Supplier: Greenfield Traders
+Document date: 2026-03-19
+DESCRIPTION QUANTITY AMOUNT (INR)
+Office chair 6 27000.00
+Payment terms: GST 18%
+Please verify all details before processing.
+Page 1 of 1 | Archive batch 07

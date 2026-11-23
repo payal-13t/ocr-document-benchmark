@@ -1,0 +1,10 @@
+NORTHSTAR BUSINESS SERVICES
+INVOICE
+Document ID: INV-2026-010
+Supplier: Riverstone Retail
+Document date: 2026-04-22
+DESCRIPTION QUANTITY AMOUNT (INR)
+Barcode scanner 4 14800.00
+Payment terms: GST 18%
+Please verify all details before processing.
+Page 1 of 1 | Archive batch 10

@@ -1,0 +1,10 @@
+NORTHSTAR BUSINESS SERVICES
+PURCHASE ORDER
+Document ID: PO-2026-015
+Supplier: Vertex Security
+Document date: 2026-06-04
+DESCRIPTION QUANTITY AMOUNT (INR)
+Access card 75 9375.00
+Payment terms: Net 30
+Please verify all details before processing.
+Page 1 of 1 | Archive batch 15

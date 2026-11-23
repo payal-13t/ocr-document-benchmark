@@ -1,0 +1,10 @@
+NORTHSTAR BUSINESS SERVICES
+PURCHASE ORDER
+Document ID: PO-2026-016
+Supplier: Aspen Furniture
+Document date: 2026-06-13
+DESCRIPTION QUANTITY AMOUNT (INR)
+Desk lamp 14 8400.00
+Payment terms: Net 15
+Please verify all details before processing.
+Page 1 of 1 | Archive batch 16

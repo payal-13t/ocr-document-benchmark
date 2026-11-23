@@ -1,0 +1,10 @@
+NORTHSTAR BUSINESS SERVICES
+INVOICE
+Document ID: INV-2026-001
+Supplier: Northstar Supplies
+Document date: 2026-01-12
+DESCRIPTION QUANTITY AMOUNT (INR)
+A4 paper 240 4800.00
+Payment terms: GST 18%
+Please verify all details before processing.
+Page 1 of 1 | Archive batch 01

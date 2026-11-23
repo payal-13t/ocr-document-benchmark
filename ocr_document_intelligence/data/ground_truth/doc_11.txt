@@ -1,0 +1,10 @@
+NORTHSTAR BUSINESS SERVICES
+PURCHASE ORDER
+Document ID: PO-2026-011
+Supplier: Pinecrest Labs
+Document date: 2026-05-02
+DESCRIPTION QUANTITY AMOUNT (INR)
+Laptop stand 20 11000.00
+Payment terms: Net 30
+Please verify all details before processing.
+Page 1 of 1 | Archive batch 11

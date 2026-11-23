@@ -1,0 +1,10 @@
+NORTHSTAR BUSINESS SERVICES
+INVOICE
+Document ID: INV-2026-005
+Supplier: Orbit Stationery
+Document date: 2026-03-02
+DESCRIPTION QUANTITY AMOUNT (INR)
+Notebook 150 7500.00
+Payment terms: GST 12%
+Please verify all details before processing.
+Page 1 of 1 | Archive batch 05

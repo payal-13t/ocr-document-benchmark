@@ -1,0 +1,10 @@
+NORTHSTAR BUSINESS SERVICES
+INVOICE
+Document ID: INV-2026-008
+Supplier: Summit Networks
+Document date: 2026-04-01
+DESCRIPTION QUANTITY AMOUNT (INR)
+Ethernet cable 50 6250.00
+Payment terms: GST 18%
+Please verify all details before processing.
+Page 1 of 1 | Archive batch 08
